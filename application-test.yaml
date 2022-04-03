@@ -1,2 +1,5 @@
+server:
+ port: 8089
 test:
- name: Test config file in git repo
+ greeting:
+  message: Hello from Test environment configuration yml

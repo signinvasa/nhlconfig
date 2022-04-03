@@ -1,5 +1,0 @@
-server:
- port: 8090
-test:
- greeting:
-  message: Hello from Prod environment configuration yml

@@ -2,4 +2,4 @@ server:
  port: 8089
 test:
  greeting:
-  message: Hello from Test environment configuration yml
+  message: Hello from Dev environment configuration yml
